@@ -1,3 +1,7 @@
+# ERD
+
+[![Image from Gyazo](https://i.gyazo.com/0fcc3350aaa4ab2c4079b076ba739998.jpg)](https://gyazo.com/0fcc3350aaa4ab2c4079b076ba739998)
+
 # Users
 |Column|Type|Options|
 |------|----|-------|
